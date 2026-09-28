@@ -1,0 +1,6 @@
+{
+  "name": "PremKotha - West Bengal Dating & Matchmaking",
+  "description": "Meet genuine, verified singles across Kolkata and West Bengal. Real-time liveness verification, mutual matching, 50 daily free swipes, in-app audio/video calling, and safe Bengali matchmaking.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
